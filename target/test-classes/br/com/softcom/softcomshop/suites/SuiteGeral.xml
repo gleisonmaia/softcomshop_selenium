@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SuiteGeral" verbose="5">
+    <test name="SuiteGeral">
+        <classes>
+            <class name="br.com.softcom.softcomshop.tests.TestCliente" />
+        </classes>
+    </test>
+</suite> 

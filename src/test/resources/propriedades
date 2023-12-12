@@ -1,0 +1,8 @@
+url_sistema = https://empresamodelo.softcomshop.com.br/auth/login
+servidor_grid = localhost
+browser=chrome
+ocultar_browser=false
+fechar_browser=true
+multi_empresa=false
+url_test_local = http://10.0.13.61/softcomshop/public/auth/login
+url_test_externo = http://177.43.232.3:2002/softcomshop/public/auth/login
